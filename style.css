@@ -99,10 +99,14 @@
         flex-direction: column;
         gap: 10px;
     }
+    .slider-container{
+        height: 400px;
+
+    }
     .slider-container
     ,.slide-control{
-        width: 270px;
-    border: 10px solid white;
+        width: 280px;
+    border: 10px solid rgba(241, 240, 240, 0.437);
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.6);
    
 }
